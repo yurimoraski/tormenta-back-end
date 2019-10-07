@@ -1,0 +1,9 @@
+C:\git\RPG\DataTransfer\bin\Debug\netstandard2.0\DataTransfer.deps.json
+C:\git\RPG\DataTransfer\bin\Debug\netstandard2.0\DataTransfer.dll
+C:\git\RPG\DataTransfer\bin\Debug\netstandard2.0\DataTransfer.pdb
+C:\git\RPG\DataTransfer\obj\Debug\netstandard2.0\DataTransfer.csprojAssemblyReference.cache
+C:\git\RPG\DataTransfer\obj\Debug\netstandard2.0\DataTransfer.csproj.CoreCompileInputs.cache
+C:\git\RPG\DataTransfer\obj\Debug\netstandard2.0\DataTransfer.AssemblyInfoInputs.cache
+C:\git\RPG\DataTransfer\obj\Debug\netstandard2.0\DataTransfer.AssemblyInfo.cs
+C:\git\RPG\DataTransfer\obj\Debug\netstandard2.0\DataTransfer.dll
+C:\git\RPG\DataTransfer\obj\Debug\netstandard2.0\DataTransfer.pdb
