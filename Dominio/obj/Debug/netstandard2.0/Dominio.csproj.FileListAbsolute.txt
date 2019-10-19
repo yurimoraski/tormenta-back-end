@@ -10,3 +10,14 @@ C:\git\RPG\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CopyComplete
 C:\git\RPG\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 C:\git\RPG\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
 C:\git\RPG\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\git\tormenta-back-end\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\git\tormenta-back-end\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\git\tormenta-back-end\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\git\tormenta-back-end\Dominio\bin\Debug\netstandard2.0\DataTransfer.dll
+C:\git\tormenta-back-end\Dominio\bin\Debug\netstandard2.0\DataTransfer.pdb
+C:\git\tormenta-back-end\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\git\tormenta-back-end\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\git\tormenta-back-end\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\git\tormenta-back-end\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CopyComplete
+C:\git\tormenta-back-end\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\git\tormenta-back-end\Dominio\obj\Debug\netstandard2.0\Dominio.pdb

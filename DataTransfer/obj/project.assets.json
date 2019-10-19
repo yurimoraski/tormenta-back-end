@@ -25,6 +25,9 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "VisualStudio.gitignore/1.0.1": {
+        "type": "package"
       }
     }
   },
@@ -171,11 +174,26 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "VisualStudio.gitignore/1.0.1": {
+      "sha512": "uF3VC/z+BWxr6q16MisLgpKm8YtzcfAE72nmo8nY4W3s0AFzGWecPKOUsc41qeQeUI/dU4cBduTMf6ccXMx3Zw==",
+      "type": "package",
+      "path": "visualstudio.gitignore/1.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "tools/init.ps1",
+        "visualstudio.gitignore.1.0.1.nupkg.sha512",
+        "visualstudio.gitignore.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "VisualStudio.gitignore >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -185,11 +203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj",
+      "projectUniqueName": "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj",
       "projectName": "DataTransfer",
-      "projectPath": "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj",
+      "projectPath": "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj",
       "packagesPath": "C:\\Users\\oieus\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\RPG\\DataTransfer\\obj\\",
+      "outputPath": "C:\\git\\tormenta-back-end\\DataTransfer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -224,13 +242,23 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "VisualStudio.gitignore": {
+            "target": "Package",
+            "version": "[1.0.1, )"
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1000,6 +1000,9 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "VisualStudio.gitignore/1.0.1": {
+        "type": "package"
       }
     }
   },
@@ -4174,12 +4177,27 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "VisualStudio.gitignore/1.0.1": {
+      "sha512": "uF3VC/z+BWxr6q16MisLgpKm8YtzcfAE72nmo8nY4W3s0AFzGWecPKOUsc41qeQeUI/dU4cBduTMf6ccXMx3Zw==",
+      "type": "package",
+      "path": "visualstudio.gitignore/1.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "tools/init.ps1",
+        "visualstudio.gitignore.1.0.1.nupkg.sha512",
+        "visualstudio.gitignore.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "MySql.Data >= 8.0.17",
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "VisualStudio.gitignore >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -4189,11 +4207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\git\\RPG\\Infra\\Infra.csproj",
+      "projectUniqueName": "C:\\git\\tormenta-back-end\\Infra\\Infra.csproj",
       "projectName": "Infra",
-      "projectPath": "C:\\git\\RPG\\Infra\\Infra.csproj",
+      "projectPath": "C:\\git\\tormenta-back-end\\Infra\\Infra.csproj",
       "packagesPath": "C:\\Users\\oieus\\.nuget\\packages\\",
-      "outputPath": "C:\\git\\RPG\\Infra\\obj\\",
+      "outputPath": "C:\\git\\tormenta-back-end\\Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4232,13 +4250,23 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "VisualStudio.gitignore": {
+            "target": "Package",
+            "version": "[1.0.1, )"
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\RPG\\Aplicacao\\Aplicacao.csproj": {}
+    "C:\\git\\tormenta-back-end\\Aplicacao\\Aplicacao.csproj": {}
   },
   "projects": {
-    "C:\\git\\RPG\\Aplicacao\\Aplicacao.csproj": {
+    "C:\\git\\tormenta-back-end\\Aplicacao\\Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\RPG\\Aplicacao\\Aplicacao.csproj",
+        "projectUniqueName": "C:\\git\\tormenta-back-end\\Aplicacao\\Aplicacao.csproj",
         "projectName": "Aplicacao",
-        "projectPath": "C:\\git\\RPG\\Aplicacao\\Aplicacao.csproj",
+        "projectPath": "C:\\git\\tormenta-back-end\\Aplicacao\\Aplicacao.csproj",
         "packagesPath": "C:\\Users\\oieus\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\RPG\\Aplicacao\\obj\\",
+        "outputPath": "C:\\git\\tormenta-back-end\\Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj": {
-                "projectPath": "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj"
+              "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj": {
+                "projectPath": "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj"
               },
-              "C:\\git\\RPG\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\git\\RPG\\Dominio\\Dominio.csproj"
+              "C:\\git\\tormenta-back-end\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\git\\tormenta-back-end\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -57,24 +57,34 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "VisualStudio.gitignore": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj": {
+    "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj",
+        "projectUniqueName": "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj",
         "projectName": "DataTransfer",
-        "projectPath": "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj",
+        "projectPath": "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj",
         "packagesPath": "C:\\Users\\oieus\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\RPG\\DataTransfer\\obj\\",
+        "outputPath": "C:\\git\\tormenta-back-end\\DataTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -109,24 +119,34 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "VisualStudio.gitignore": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\git\\RPG\\Dominio\\Dominio.csproj": {
+    "C:\\git\\tormenta-back-end\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\RPG\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\git\\tormenta-back-end\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\git\\RPG\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\git\\tormenta-back-end\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\oieus\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\RPG\\Dominio\\obj\\",
+        "outputPath": "C:\\git\\tormenta-back-end\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -145,8 +165,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj": {
-                "projectPath": "C:\\git\\RPG\\DataTransfer\\DataTransfer.csproj"
+              "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj": {
+                "projectPath": "C:\\git\\tormenta-back-end\\DataTransfer\\DataTransfer.csproj"
               }
             }
           }
@@ -169,13 +189,23 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "VisualStudio.gitignore": {
+              "target": "Package",
+              "version": "[1.0.1, )"
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

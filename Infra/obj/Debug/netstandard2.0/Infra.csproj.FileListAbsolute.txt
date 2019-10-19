@@ -7,3 +7,11 @@ C:\git\RPG\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
 C:\git\RPG\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfo.cs
 C:\git\RPG\Infra\obj\Debug\netstandard2.0\Infra.dll
 C:\git\RPG\Infra\obj\Debug\netstandard2.0\Infra.pdb
+C:\git\tormenta-back-end\Infra\bin\Debug\netstandard2.0\Infra.deps.json
+C:\git\tormenta-back-end\Infra\bin\Debug\netstandard2.0\Infra.dll
+C:\git\tormenta-back-end\Infra\bin\Debug\netstandard2.0\Infra.pdb
+C:\git\tormenta-back-end\Infra\obj\Debug\netstandard2.0\Infra.csprojAssemblyReference.cache
+C:\git\tormenta-back-end\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfoInputs.cache
+C:\git\tormenta-back-end\Infra\obj\Debug\netstandard2.0\Infra.AssemblyInfo.cs
+C:\git\tormenta-back-end\Infra\obj\Debug\netstandard2.0\Infra.dll
+C:\git\tormenta-back-end\Infra\obj\Debug\netstandard2.0\Infra.pdb
