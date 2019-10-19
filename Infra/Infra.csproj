@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <PackageReference Include="MySql.Data" Version="8.0.17" />
-    <PackageReference Include="VisualStudio.gitignore" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
