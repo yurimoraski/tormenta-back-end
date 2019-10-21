@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio.Deuses.Entidades
 {
-    class Deuses
+    public class Deuses
     {
         public int Id { get; set; }
         public string Nome { get; set; }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Dominio.Origens.Entidades
 {
-    class Origem
+    public class Origem
     {
         public long Id { get; set; }
         public string Nome { get; set; }
